@@ -7,6 +7,7 @@ namespace Projetogit
         static void Main(string[] args)
         {
             Console.WriteLine("ola mundo!");
+            Console.WriteLine("Bom dia! Tudo bem!");
 
             Console.ReadLine();
         }
